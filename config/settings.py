@@ -21,6 +21,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # app
     "user",
+    "account_book",
     # django-restframework
     "rest_framework",
     # simple-jwt
